@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-e26217bc","path":"/categories/mianshiti/6/","title":"","lang":"en-US","frontmatter":{"layout":"Categories"},"excerpt":"","headers":[],"git":{},"filePathRelative":null}');export{e as data};

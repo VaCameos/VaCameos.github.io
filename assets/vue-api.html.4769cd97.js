@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-f53eab56","path":"/blogs/%E9%9D%A2%E8%AF%95%E9%A2%98/vue-api.html","title":"vue2-api","lang":"en-US","frontmatter":{"title":"vue2-api","date":"2023/2/28","tags":["vue"],"categories":["\u9762\u8BD5\u9898"]},"excerpt":"","headers":[],"git":{},"filePathRelative":"blogs/\u9762\u8BD5\u9898/vue-api.md"}');export{e as data};

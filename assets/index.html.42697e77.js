@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-405fadf0","path":"/tags/xiazaiwenjian/1/","title":"","lang":"en-US","frontmatter":{"layout":"Categories"},"excerpt":"","headers":[],"git":{},"filePathRelative":null}');export{a as data};

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-976939ca","path":"/tags/shousidaima/1/","title":"","lang":"en-US","frontmatter":{"layout":"Categories"},"excerpt":"","headers":[],"git":{},"filePathRelative":null}');export{t as data};
